@@ -2,7 +2,7 @@
 Final year project on identification, conversion and plagiarism check of artwork with the use of neural networks.
 
 Running the project requires installation of Python 3.8 and an IDE/notebook to run the code. Following are the python in-built libraries/frameworks used throughout the code:
-flask,
+flask,<br>
 google.colab,
 random,
 numpy,
